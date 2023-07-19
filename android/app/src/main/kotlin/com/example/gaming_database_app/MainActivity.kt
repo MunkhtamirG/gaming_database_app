@@ -1,4 +1,4 @@
-package com.example.igdb
+package com.example.gaming_database_app
 
 import io.flutter.embedding.android.FlutterActivity
 

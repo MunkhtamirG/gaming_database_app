@@ -1,15 +1,16 @@
-# Flutter Gaming Database App
+# gaming_database_app
 
-Flutter Gaming Database App with REST API and BLoC
+A new Flutter project.
 
-Data Provider: https://www.igdb.com/
+## Getting Started
 
-Youtube Tutorial Link: https://youtu.be/YnV_R7kAYUk
+This project is a starting point for a Flutter application.
 
-<p float="left">
-  <img src="https://cdn.zochil.shop/02b2c1bb-4ac0-4962-893c-36dc8d4f4feb_t500.png" width="300">
-   <img src="https://cdn.zochil.shop/f4917367-7048-4546-949e-72c4484fadc6_t500.png" width="300">
-</p>
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
